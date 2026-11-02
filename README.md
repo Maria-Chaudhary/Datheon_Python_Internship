@@ -1,2 +1,2 @@
 # Datheon_Python_Internship
-Tasks completed whie doing internship at Datheon.
+Tasks completed while doing internship at Datheon.
